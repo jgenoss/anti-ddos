@@ -1,6 +1,0 @@
-[5/5/2025 3:48:08 p. m.] Sistema Anti-DDoS mejorado iniciado. Monitoreando IP: 192.168.18.31 Puertos: 80,443,5000,5001,5002
-[5/5/2025 3:48:08 p. m.] Lista blanca: 192.168.18.31, 192.168.235.1, 192.168.40.1
-[5/5/2025 3:48:08 p. m.] Protección específica contra Point Blank Socket activada
-[5/5/2025 10:20:48 p. m.] Sistema Anti-DDoS mejorado iniciado. Monitoreando IP: 192.168.18.31 Puertos: 80,443,5000,5001,5002
-[5/5/2025 10:20:48 p. m.] Lista blanca: 192.168.18.31, 26.137.85.147, 192.168.235.1, 192.168.40.1
-[5/5/2025 10:20:48 p. m.] Protección específica contra Point Blank Socket activada
